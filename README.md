@@ -1,10 +1,7 @@
-# Nichiki, Zack
-### Real name: Gabriel Canudo
+# Zack Nichiki 
 
-- 👋 Hi, I’m @VoidNichiki
-- 👀 I’m interested in play games and be happy
-- 🌱 I’m currently learning python!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I actually hate chayote
+- Vulgo, Gabriel Canudo
 
-  I'm a beginner at programmin, especially in **Python**, but i'm excited to learn everything and try my best!
+- Programador Trainee em busca de desafios e projetos para atuar.
+
+- Contato por E-mail: gabrielmarquescanudo@gmail.com
