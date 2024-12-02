@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoidNichiki&theme=dark&text_color=9ED56B&show_icons=true&border_color=6CADDF&locale=pt-br" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&card_width=320&layout=compact&langs_count=5&theme=dark&text_color=9ED56B&border_color=6CADDF&locale=pt-br" height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidNichiki&card_width=320&layout=compact&langs_count=5&theme=dark&text_color=9ED56B&border_color=6CADDF&locale=pt-br" height=200>
 </div>
 
 <hr>
